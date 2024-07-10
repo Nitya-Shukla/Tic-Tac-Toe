@@ -12,8 +12,8 @@ Make sure you have Node.js and npm installed on your machine. You can download a
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/Nitya-Shukla/Tic-Tac-Toe.git
+    cd Tic-Tac-Toe
     ```
 
 2. Install the dependencies:
